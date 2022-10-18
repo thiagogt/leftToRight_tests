@@ -49,4 +49,4 @@ Baixe a JDK 1.7 em qualquer site e rode :
 
 ## Executar o programa ##
 
-* navegue até a pasta target/, onde se encontra o boliche_tdd.jar
+* navegue até a pasta target/, onde se encontra o left_right_app-1.0.jar
